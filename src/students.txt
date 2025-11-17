@@ -1,0 +1,10 @@
+12,Krishna Sidharth,sk12345@gmail.com,BSc Full Stack Dev,99.0
+3,Sidharth Krishna S,sk123@gmail.com,BSc Computer Science,98.96
+406,Charlotte Blake,charlotte.blake@mail.com,MSc Computer Science,91.0
+409,Noah Bennett,noah.bennett@mail.com,MSc Software Engineering,88.9
+405,Alexander Reed,alex.reed@mail.com,BSc Software Engineering,85.2
+411,Lucas Hayes,lucas.hayes@mail.com,MSc Computer Science,82.1
+410,Grace Foster,grace.foster@mail.com,BSc Computer Science,79.3
+412,Emma Walsh,emma.walsh@mail.com,BSc Software Engineering,74.6
+407,Ethan Brooks,ethan.brooks@mail.com,BSc Computer Science,73.5
+408,Amelia Price,amelia.price@mail.com,BSc Software Engineering,66.7
