@@ -149,6 +149,7 @@ error feedback during search operations. Overall, the system integrates **OOP**,
 - service : https://github.com/SidharthBScCS/Student-Record-Management-System-5/tree/main/src/service
 - threads : https://github.com/SidharthBScCS/Student-Record-Management-System-5/tree/main/src/threads
 - utils : https://github.com/SidharthBScCS/Student-Record-Management-System-5/tree/main/src/utils
+- exception : https://github.com/SidharthBScCS/Student-Record-Management-System-5/tree/main/src/exception
 - students.txt : https://github.com/SidharthBScCS/Student-Record-Management-System-5/blob/main/src/students.txt
 
 ## Student Details
